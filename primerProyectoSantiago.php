@@ -6,7 +6,7 @@
     <title>Marc Santiago</title>
 </head>
 <body>
-    <h1>Bienvenido a primerProyectoSantiago.com</h1>
+    <h1>Bienvenido a primerProyectoSantiago.com </h1>
     <?php
             echo "Esto es una prueba";
     ?>
